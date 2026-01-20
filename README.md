@@ -8,7 +8,8 @@ O Repositório mostra as etapas de ETL, com suas respectivas bases de dados, tra
 Construção de Medidas DAX, assim com visualização e técnicas como escolha de gráficos e disposição das informações.
 
 **Modelos disponíveis:**<br>
-- Modelo Financeiro
+- [Modelo Financeiro](Power-BI/Financeiro/README.md)
+
 
 <img src="images/benchmarking.png" width="150" height="150">
 
