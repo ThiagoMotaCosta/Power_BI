@@ -10,8 +10,7 @@ Construção de Medidas DAX, assim com visualização e técnicas como escolha d
 **Modelos disponíveis:**<br>
 - Modelo Financeiro
 
-<img src="C:\Users\Samsung\OneDrive\Área de Trabalho\git-e-gtihub\Power-BI\benchmarking.png" alt="Indicadores"/>
-
+<img src="images/benchmarking.png" width="150" height="150">
 
 Fontes:
 Imagem: <a href="https://www.flaticon.com/free-icons/kpi" title="kpi icons">Kpi icons created by Uniconlabs - Flaticon</a>
