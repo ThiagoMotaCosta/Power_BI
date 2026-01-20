@@ -1,14 +1,14 @@
-# Power_BI
+## Power_BI
 
-## Objetivo:
+**Objetivo:**<br>
 Mostrar diferentes modelos de construção e seu passo a passo para interessados.
 
-## Descrição:
+**Descrição:**<br>
 O Repositório mostra as etapas de ETL, com suas respectivas bases de dados, transforações via Power Query e aplicação.
 Construção de Medidas DAX, assim com visualização e técnicas como escolha de gráficos e disposição das informações.
 
-## Modelos disponíveis:
-1 - Modelo Financeiro
+**Modelos disponíveis:**<br>
+- Modelo Financeiro
 
 <img src="C:\Users\Samsung\OneDrive\Área de Trabalho\git-e-gtihub\Power-BI\benchmarking.png" alt="Indicadores"/>
 
