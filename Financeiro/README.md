@@ -1,5 +1,5 @@
 
-## Rede Farmáricas - Modelo Financeiro
+## Rede Farmáricas - Análise Margem
 
 ### Case:
 Uma empresa do ramo de farmárcia tem diversas lojas como parte do negócio, em sistema de rede. A alta direção determinou um objetivo de 25% de margem de contribuição em cada Municipio, assim como mapeamento de oportunidades e riscos financeiros nessas localidades.
