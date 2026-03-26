@@ -1,4 +1,4 @@
-## Power_BI [ Em Construção ]
+## Power BI [ Em Construção ]
 
 **Objetivo:**<br>
 Mostrar diferentes modelos de construção e seu passo a passo para interessados.
@@ -8,7 +8,7 @@ O Repositório mostra as etapas de ETL, com suas respectivas bases de dados, tra
 Construção de Medidas DAX, assim com visualização e técnicas como escolha de gráficos e disposição das informações.
 
 **Modelos disponíveis:**<br>
-- [Case Rede Farmácia: Modelo Financeiro](Financeiro/README.md)
+- [Case Rede Farmácia: Análise Margem](Financeiro/README.md) [ETL, Dimensão Calendário, DAX, View]
 
 
 <img src="images/benchmarking.png" width="150" height="150">
