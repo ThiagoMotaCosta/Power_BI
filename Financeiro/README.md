@@ -55,6 +55,9 @@ Análise baseado em 3 pilares: Lucratividade das Lojas e sua contribuição na M
 - Barras clusterizadas: Top 3 Lojas com maior lucratividade
 - Gráfico Rosca: Margem
 
+**Melhoria Futura**
+- Remodelagem para arquitetura Star Schema
+
 
 
 
