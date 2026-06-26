@@ -31,7 +31,23 @@ Análise baseado em 3 pilares: Lucratividade das Lojas e sua contribuição na M
 **Dataset:** 
 -  Base Financeiro Modelo.xlsx (Base com as movimentações de lojas com pagamentos e recebimentos
 -  Calendário: Construção de Tabela DAX com a fórmula CALENDAR (com start em 1/1/ano(min Data da Movimentação) e End 31/12/ano(min Data da Movimentação)
- 
+
+**Camada:**
+- Staging: Para construção das Dimensões [ stgMovimentacoes ]
+- Semântica: Metricas [ _Medidas_Base ]
+
+**Modelo:**
+- Star Schema [ Dimensões -> Fato com relações diretas ]
+
+** Tabelas:**
+- fMovimentações:	Fato
+- dCalendario: Dim. Tempo
+- dCliente: Dimensão
+- dBanco: Dimensão
+- dFormaPagamento: Dimensão
+- dLocalidade: Dimensão
+- dTipoMovimentacao: Dimensão
+
 **Tratamento:**
 - Exclusão de linhas superiores desnecessárias (rótulo de relatório)
 - Utilização de primeira linha como cabeçalho
